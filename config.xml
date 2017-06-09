@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.golfchapultepec.sistemagolfv2"
-        version   = "1.0.8">
+        id        = "com.totalcontent.app"
+        version   = "1.0.0">
 
-    <name>Club de Golf Chapultepec</name>
+    <name>Total Content</name>
 
    <description>
-      Aplicación para uso exclusivo de los Socios del Club de Golf Chapultepec que cuenten con salida fija. 
+      Aplicación para uso exclusivo de los Socios de TotalContent. 
    </description>
 
-   <author href="http://golfchapultepec.com" email="horacio.morales@golfchapultepec.com">
-      Horacio Morales
+   <author href="http://totalcontent-mx" email="soporte@totalcontent.mx">
+      PATRICK SCHNAAS
    </author>
 
    <!--
